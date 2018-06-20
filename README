@@ -1,0 +1,5 @@
+A strategy game written in C using the SDL library for graphics and fmod for the
+sound. The objective is to encircle the cat which uses the dijkstra algorithm to find
+the shortest way to get out.
+
++ Keywords : C, SDL, gcc, gdb, Makefile
